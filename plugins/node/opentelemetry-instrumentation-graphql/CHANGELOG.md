@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.37.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-graphql-v0.36.1...instrumentation-graphql-v0.37.0) (2024-01-22)
+
+
+### Features
+
+* **instrumentation-graphql:** add option to ignore resolver spans ([#1858](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1858)) ([c365375](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/c365375ce2d35c01df06c96a4faf8d5a5d9d1ec3))
+
 ## [0.36.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-graphql-v0.36.0...instrumentation-graphql-v0.36.1) (2024-01-04)
 
 

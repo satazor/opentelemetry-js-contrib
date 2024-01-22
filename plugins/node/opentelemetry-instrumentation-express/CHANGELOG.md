@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.34.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.34.1...instrumentation-express-v0.34.2) (2024-01-22)
+
+
+### Bug Fixes
+
+* span emit warnings on express instrumentation ([#1891](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1891)) ([f65f2f1](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/f65f2f1482f6f9ca80681f09249dc2b75ef7e3db))
+
 ## [0.34.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-express-v0.34.0...instrumentation-express-v0.34.1) (2024-01-04)
 
 

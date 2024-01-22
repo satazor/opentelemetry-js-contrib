@@ -12,6 +12,13 @@
   * devDependencies
     * @opentelemetry/contrib-test-utils bumped from ^0.34.3 to ^0.35.0
 
+## [0.35.7](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-redis-4-v0.35.6...instrumentation-redis-4-v0.35.7) (2024-01-22)
+
+
+### Bug Fixes
+
+* **instrumentation-redis-4:** fix multi.exec() instrumentation for redis &gt;=4.6.12 ([#1904](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1904)) ([fce7d3b](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/fce7d3b5e478ff7525c9ffe99e59bf35f8c06207))
+
 ## [0.35.6](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-redis-4-v0.35.5...instrumentation-redis-4-v0.35.6) (2024-01-04)
 
 

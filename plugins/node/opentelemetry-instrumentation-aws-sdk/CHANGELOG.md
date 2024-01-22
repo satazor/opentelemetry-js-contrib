@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.37.3](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-aws-sdk-v0.37.2...instrumentation-aws-sdk-v0.37.3) (2024-01-22)
+
+
+### Bug Fixes
+
+* **instrumentation-aws-sdk:** make empty context when SQS message has no propagation fields ([#1889](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1889)) ([577a291](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/577a291cd527606b331d6732ba0eccc75422a0fc))
+
 ## [0.37.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-aws-sdk-v0.37.1...instrumentation-aws-sdk-v0.37.2) (2024-01-04)
 
 

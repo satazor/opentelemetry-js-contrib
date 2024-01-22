@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.35.0](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pino-v0.34.5...instrumentation-pino-v0.35.0) (2024-01-22)
+
+
+### Features
+
+* Allow configuring pino to log with different keys ([#1867](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1867)) ([33b31d0](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/33b31d055326d5fc1456bb46ebc2d7e888b376db))
+
 ## [0.34.5](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pino-v0.34.4...instrumentation-pino-v0.34.5) (2024-01-04)
 
 

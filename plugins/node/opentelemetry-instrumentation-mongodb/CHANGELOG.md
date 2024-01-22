@@ -6,6 +6,13 @@
   * devDependencies
     * @opentelemetry/contrib-test-utils bumped from ^0.34.3 to ^0.35.0
 
+## [0.38.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.38.1...instrumentation-mongodb-v0.38.2) (2024-01-22)
+
+
+### Bug Fixes
+
+* **mongodb-example:** Ensure instrumentation is setup before mongoDB client is import ([#1851](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1851)) ([c54e9b6](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/c54e9b61a031469110d845387ae1853b9197063d))
+
 ## [0.38.1](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-mongodb-v0.38.0...instrumentation-mongodb-v0.38.1) (2024-01-04)
 
 

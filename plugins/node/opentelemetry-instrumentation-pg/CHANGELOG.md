@@ -6,6 +6,13 @@
   * devDependencies
     * @opentelemetry/contrib-test-utils bumped from ^0.34.3 to ^0.35.0
 
+## [0.37.3](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pg-v0.37.2...instrumentation-pg-v0.37.3) (2024-01-22)
+
+
+### Bug Fixes
+
+* **instrumentation-pg:** remove `@opentelemetry/core` from dependencies ([#1895](https://github.com/open-telemetry/opentelemetry-js-contrib/issues/1895)) ([c0d873c](https://github.com/open-telemetry/opentelemetry-js-contrib/commit/c0d873c360c00cd81a7c2ced74683f8408eabd84))
+
 ## [0.37.2](https://github.com/open-telemetry/opentelemetry-js-contrib/compare/instrumentation-pg-v0.37.1...instrumentation-pg-v0.37.2) (2024-01-04)
 
 
